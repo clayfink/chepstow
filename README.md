@@ -25,6 +25,11 @@ To run the tests, use pip to install nose and then in the base directory run:
 nosetests
 ```
 
+To run the large graph tests, do this:
+```bash
+nosetests scaling_checks
+```
+
 Running
 ---------------
 It does not do anything so why run it?
