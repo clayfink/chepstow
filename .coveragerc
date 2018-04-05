@@ -1,3 +1,6 @@
 [run]
 branch = True
 source = chepstow
+omit =
+  */virtualenv/*
+  */tests/*
