@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ACI-ESP/chepstow.svg?branch=dev)](https://travis-ci.org/ACI-ESP/chepstow)
+
 Chepstow
 =============
 This is a test repository for setting up software processes.
