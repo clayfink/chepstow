@@ -38,3 +38,5 @@ Development
 -----------
 The code mostly follows the [PEP8 coding standard](https://www.python.org/dev/peps/pep-0008/).
 If you are using PyCharm, it will highlight PEP8 issues.
+
+The docstrings are using the [Google standard](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html).
