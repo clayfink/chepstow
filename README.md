@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/ACI-ESP/chepstow.svg?branch=dev)](https://travis-ci.org/ACI-ESP/chepstow)
-[![Coverage Status](https://coveralls.io/repos/github/ACI-ESP/chepstow/badge.svg?branch=dev)](https://coveralls.io/github/ACI-ESP/chepstow?branch=dev)
+[![Coverage Status](https://img.shields.io/coveralls/github/ACI-ESP/chepstow/dev.svg)](https://coveralls.io/github/ACI-ESP/chepstow?branch=dev)
 
 Chepstow
 =============
