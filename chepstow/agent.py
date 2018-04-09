@@ -11,7 +11,6 @@ class Agent(object):
     """
 
     def __init__(self):
-        print(self.clay)
         self.magic = 762
 
     def run(self, delay):
